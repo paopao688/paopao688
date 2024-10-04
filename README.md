@@ -1,7 +1,7 @@
 <h1 align="center">哈喽，我是 @paopao688</h1>
 <h3 align="center">一位初学者</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
